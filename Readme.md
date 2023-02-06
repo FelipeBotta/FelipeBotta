@@ -12,7 +12,7 @@
 </div>
 <br/>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeBotta&langs_count=10)](https://github.com/FelipeBotta/)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeBotta&langs_count=2)](https://github.com/FelipeBotta/)
 
 <h2 style="font-size: 2em">Social Media</h2> <br/>
 
