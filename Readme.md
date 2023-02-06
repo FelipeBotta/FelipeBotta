@@ -1,5 +1,5 @@
  
- <h1 style="font-weight: bold"> Hi! I'm Luís Felipe✋</h1>
+ <h1 style="font-weight: bold"> Hi! I'm Luís Felipe</h1>
 
 
 <h2 style="font-weight: bold">Technologies</h2>
