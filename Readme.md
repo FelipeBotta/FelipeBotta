@@ -6,13 +6,13 @@
 
 <div style="display: inline_block"> <br/>
 
-<img align="center" alt="html" height="30px" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"> 
-<img align="center" alt="css3" height="30px" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-<img align="center" alt="js" height="30px" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+<img align="center" alt="html" height="30px" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"> 
+<img align="center" alt="css3" height="30px" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+<img align="center" alt="js" height="30px" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 </div>
 <br/>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeBotta&langs_count=10)](https://github.com/FelipeBotta/)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeBotta&langs_count=5)](https://github.com/FelipeBotta/)
 
 <h2 style="font-size: 2em">Social Media</h2> <br/>
 
